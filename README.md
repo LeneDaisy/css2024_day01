@@ -2,4 +2,4 @@
 
 welcome to the coding summer school 
 
-this is day one files and folders 
+this is day one file and folders 
